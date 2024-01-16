@@ -47,6 +47,7 @@ namespace GameJamLibrary
 
         }
 
+        //x에 대해 추정한 f(x)의 값 구하기
         public double getFunc(double x)
         {
 
@@ -157,6 +158,7 @@ namespace GameJamLibrary
 
         }
 
+        //f(x) 추정
         public static GraphFunction getModel(int model)
         {
 
